@@ -10,8 +10,10 @@ body{
     flex-direction: column;
     gap: 30px;
     align-items: center;
+}
+.Principal{
     background-color: rgb(247,3,192,0.4);
-    width: 1000px;
+    width: 100%;
 }
 .Secundario{margin-top: 5rem;}
 .Titulo{
