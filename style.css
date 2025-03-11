@@ -4,6 +4,9 @@
 }
 body{
     background-image:url("./img/88db1d8c792f8d7d62a11c09290622bf.jpg");
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
 }
 .Todo{
     display: flex;
